@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949378596691",
+    "firebase_url": "https://knife-shot-5e9ff.firebaseio.com",
+    "project_id": "knife-shot-5e9ff",
+    "storage_bucket": "knife-shot-5e9ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949378596691:android:2560988523174db55faba6",
+        "android_client_info": {
+          "package_name": "com.whs.knifeshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949378596691-fiqqse28g1smreihginktbquof78osuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqHh-_eGy_sTP3iOqMIx1MrryEj1FVrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949378596691-fiqqse28g1smreihginktbquof78osuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
